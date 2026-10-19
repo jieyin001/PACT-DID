@@ -1,0 +1,1 @@
+{"name":"equidid-dualchain-testbed","author":"Joey","private":true,"type":"module","dependencies":{"ethers":"6.15.0","solc":"0.8.30","@veramo/core":"7.0.0"}}

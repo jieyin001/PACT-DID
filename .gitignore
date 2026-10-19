@@ -1,0 +1,27 @@
+.secrets/
+.env
+.env.*
+!.env.example
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+*.exe
+*.dll
+*.log
+build/
+results/
+results_*/
+inputs/
+account-public.json
+runtime.json
+*.zkey
+*.ptau
+*.wtns
+*.r1cs
+*.pem
+*.key
+.DS_Store
+/tests/
+# Local same-package tests restored for development only.
+/pwts/*_test.go
